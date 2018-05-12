@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43412'
     url: http://www.gutenberg.org/2009/agents/43412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45687#Friendship-and-FollyA-Novel
 gutenberg_issued: '2014-05-18'
 gutenberg_type: Text
 identifiers:
